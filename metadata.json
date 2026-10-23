@@ -1,0 +1,6 @@
+{
+  "name": "Emberline: The Crimson Flame",
+  "description": "A story-led 2D pixel-art action-platformer following Blaze across six corrupted zones to restore the Great Beacon and earn a borrowed dawn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

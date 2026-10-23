@@ -1,0 +1,951 @@
+{
+  "idle": {
+    "canvasWidth": 96,
+    "canvasHeight": 96,
+    "frameCount": 11,
+    "frames": [
+      {
+        "index": 0,
+        "file": "/assets/blaze_sprites/idle/frame_0.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 1,
+        "file": "/assets/blaze_sprites/idle/frame_1.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 2,
+        "file": "/assets/blaze_sprites/idle/frame_2.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 3,
+        "file": "/assets/blaze_sprites/idle/frame_3.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 4,
+        "file": "/assets/blaze_sprites/idle/frame_4.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 5,
+        "file": "/assets/blaze_sprites/idle/frame_5.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 6,
+        "file": "/assets/blaze_sprites/idle/frame_6.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 7,
+        "file": "/assets/blaze_sprites/idle/frame_7.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 8,
+        "file": "/assets/blaze_sprites/idle/frame_8.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 9,
+        "file": "/assets/blaze_sprites/idle/frame_9.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 10,
+        "file": "/assets/blaze_sprites/idle/frame_10.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      }
+    ]
+  },
+  "walk": {
+    "canvasWidth": 96,
+    "canvasHeight": 96,
+    "frameCount": 11,
+    "frames": [
+      {
+        "index": 0,
+        "file": "/assets/blaze_sprites/walk/frame_0.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 1,
+        "file": "/assets/blaze_sprites/walk/frame_1.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 2,
+        "file": "/assets/blaze_sprites/walk/frame_2.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 3,
+        "file": "/assets/blaze_sprites/walk/frame_3.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 4,
+        "file": "/assets/blaze_sprites/walk/frame_4.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 5,
+        "file": "/assets/blaze_sprites/walk/frame_5.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 6,
+        "file": "/assets/blaze_sprites/walk/frame_6.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 7,
+        "file": "/assets/blaze_sprites/walk/frame_7.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 8,
+        "file": "/assets/blaze_sprites/walk/frame_8.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 9,
+        "file": "/assets/blaze_sprites/walk/frame_9.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 10,
+        "file": "/assets/blaze_sprites/walk/frame_10.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      }
+    ]
+  },
+  "run": {
+    "canvasWidth": 112,
+    "canvasHeight": 96,
+    "frameCount": 12,
+    "frames": [
+      {
+        "index": 0,
+        "file": "/assets/blaze_sprites/run/frame_0.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      },
+      {
+        "index": 1,
+        "file": "/assets/blaze_sprites/run/frame_1.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      },
+      {
+        "index": 2,
+        "file": "/assets/blaze_sprites/run/frame_2.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      },
+      {
+        "index": 3,
+        "file": "/assets/blaze_sprites/run/frame_3.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      },
+      {
+        "index": 4,
+        "file": "/assets/blaze_sprites/run/frame_4.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      },
+      {
+        "index": 5,
+        "file": "/assets/blaze_sprites/run/frame_5.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      },
+      {
+        "index": 6,
+        "file": "/assets/blaze_sprites/run/frame_6.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      },
+      {
+        "index": 7,
+        "file": "/assets/blaze_sprites/run/frame_7.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      },
+      {
+        "index": 8,
+        "file": "/assets/blaze_sprites/run/frame_8.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      },
+      {
+        "index": 9,
+        "file": "/assets/blaze_sprites/run/frame_9.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      },
+      {
+        "index": 10,
+        "file": "/assets/blaze_sprites/run/frame_10.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      },
+      {
+        "index": 11,
+        "file": "/assets/blaze_sprites/run/frame_11.png",
+        "width": 112,
+        "height": 96,
+        "anchorX": 56,
+        "anchorY": 84
+      }
+    ]
+  },
+  "jump": {
+    "canvasWidth": 96,
+    "canvasHeight": 104,
+    "frameCount": 10,
+    "frames": [
+      {
+        "index": 0,
+        "file": "/assets/blaze_sprites/jump/frame_0.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 1,
+        "file": "/assets/blaze_sprites/jump/frame_1.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 2,
+        "file": "/assets/blaze_sprites/jump/frame_2.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 3,
+        "file": "/assets/blaze_sprites/jump/frame_3.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 4,
+        "file": "/assets/blaze_sprites/jump/frame_4.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 5,
+        "file": "/assets/blaze_sprites/jump/frame_5.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 6,
+        "file": "/assets/blaze_sprites/jump/frame_6.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 7,
+        "file": "/assets/blaze_sprites/jump/frame_7.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 8,
+        "file": "/assets/blaze_sprites/jump/frame_8.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 9,
+        "file": "/assets/blaze_sprites/jump/frame_9.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      }
+    ]
+  },
+  "fall": {
+    "canvasWidth": 96,
+    "canvasHeight": 104,
+    "frameCount": 10,
+    "frames": [
+      {
+        "index": 0,
+        "file": "/assets/blaze_sprites/fall/frame_0.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 1,
+        "file": "/assets/blaze_sprites/fall/frame_1.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 2,
+        "file": "/assets/blaze_sprites/fall/frame_2.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 3,
+        "file": "/assets/blaze_sprites/fall/frame_3.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 4,
+        "file": "/assets/blaze_sprites/fall/frame_4.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 5,
+        "file": "/assets/blaze_sprites/fall/frame_5.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 6,
+        "file": "/assets/blaze_sprites/fall/frame_6.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 7,
+        "file": "/assets/blaze_sprites/fall/frame_7.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 8,
+        "file": "/assets/blaze_sprites/fall/frame_8.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      },
+      {
+        "index": 9,
+        "file": "/assets/blaze_sprites/fall/frame_9.png",
+        "width": 96,
+        "height": 104,
+        "anchorX": 48,
+        "anchorY": 90
+      }
+    ]
+  },
+  "attack1": {
+    "canvasWidth": 240,
+    "canvasHeight": 104,
+    "frameCount": 9,
+    "frames": [
+      {
+        "index": 0,
+        "file": "/assets/blaze_sprites/attack1/frame_0.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 1,
+        "file": "/assets/blaze_sprites/attack1/frame_1.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 2,
+        "file": "/assets/blaze_sprites/attack1/frame_2.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 3,
+        "file": "/assets/blaze_sprites/attack1/frame_3.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 4,
+        "file": "/assets/blaze_sprites/attack1/frame_4.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 5,
+        "file": "/assets/blaze_sprites/attack1/frame_5.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 6,
+        "file": "/assets/blaze_sprites/attack1/frame_6.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 7,
+        "file": "/assets/blaze_sprites/attack1/frame_7.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 8,
+        "file": "/assets/blaze_sprites/attack1/frame_8.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      }
+    ]
+  },
+  "attack2": {
+    "canvasWidth": 240,
+    "canvasHeight": 104,
+    "frameCount": 9,
+    "frames": [
+      {
+        "index": 0,
+        "file": "/assets/blaze_sprites/attack2/frame_0.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 1,
+        "file": "/assets/blaze_sprites/attack2/frame_1.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 2,
+        "file": "/assets/blaze_sprites/attack2/frame_2.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 3,
+        "file": "/assets/blaze_sprites/attack2/frame_3.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 4,
+        "file": "/assets/blaze_sprites/attack2/frame_4.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 5,
+        "file": "/assets/blaze_sprites/attack2/frame_5.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 6,
+        "file": "/assets/blaze_sprites/attack2/frame_6.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 7,
+        "file": "/assets/blaze_sprites/attack2/frame_7.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      },
+      {
+        "index": 8,
+        "file": "/assets/blaze_sprites/attack2/frame_8.png",
+        "width": 240,
+        "height": 104,
+        "anchorX": 96,
+        "anchorY": 90
+      }
+    ]
+  },
+  "dash": {
+    "canvasWidth": 176,
+    "canvasHeight": 96,
+    "frameCount": 9,
+    "frames": [
+      {
+        "index": 0,
+        "file": "/assets/blaze_sprites/dash/frame_0.png",
+        "width": 176,
+        "height": 96,
+        "anchorX": 112,
+        "anchorY": 84
+      },
+      {
+        "index": 1,
+        "file": "/assets/blaze_sprites/dash/frame_1.png",
+        "width": 176,
+        "height": 96,
+        "anchorX": 112,
+        "anchorY": 84
+      },
+      {
+        "index": 2,
+        "file": "/assets/blaze_sprites/dash/frame_2.png",
+        "width": 176,
+        "height": 96,
+        "anchorX": 112,
+        "anchorY": 84
+      },
+      {
+        "index": 3,
+        "file": "/assets/blaze_sprites/dash/frame_3.png",
+        "width": 176,
+        "height": 96,
+        "anchorX": 112,
+        "anchorY": 84
+      },
+      {
+        "index": 4,
+        "file": "/assets/blaze_sprites/dash/frame_4.png",
+        "width": 176,
+        "height": 96,
+        "anchorX": 112,
+        "anchorY": 84
+      },
+      {
+        "index": 5,
+        "file": "/assets/blaze_sprites/dash/frame_5.png",
+        "width": 176,
+        "height": 96,
+        "anchorX": 112,
+        "anchorY": 84
+      },
+      {
+        "index": 6,
+        "file": "/assets/blaze_sprites/dash/frame_6.png",
+        "width": 176,
+        "height": 96,
+        "anchorX": 112,
+        "anchorY": 84
+      },
+      {
+        "index": 7,
+        "file": "/assets/blaze_sprites/dash/frame_7.png",
+        "width": 176,
+        "height": 96,
+        "anchorX": 112,
+        "anchorY": 84
+      },
+      {
+        "index": 8,
+        "file": "/assets/blaze_sprites/dash/frame_8.png",
+        "width": 176,
+        "height": 96,
+        "anchorX": 112,
+        "anchorY": 84
+      }
+    ]
+  },
+  "hurt": {
+    "canvasWidth": 96,
+    "canvasHeight": 96,
+    "frameCount": 11,
+    "frames": [
+      {
+        "index": 0,
+        "file": "/assets/blaze_sprites/hurt/frame_0.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 1,
+        "file": "/assets/blaze_sprites/hurt/frame_1.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 2,
+        "file": "/assets/blaze_sprites/hurt/frame_2.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 3,
+        "file": "/assets/blaze_sprites/hurt/frame_3.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 4,
+        "file": "/assets/blaze_sprites/hurt/frame_4.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 5,
+        "file": "/assets/blaze_sprites/hurt/frame_5.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 6,
+        "file": "/assets/blaze_sprites/hurt/frame_6.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 7,
+        "file": "/assets/blaze_sprites/hurt/frame_7.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 8,
+        "file": "/assets/blaze_sprites/hurt/frame_8.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 9,
+        "file": "/assets/blaze_sprites/hurt/frame_9.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      },
+      {
+        "index": 10,
+        "file": "/assets/blaze_sprites/hurt/frame_10.png",
+        "width": 96,
+        "height": 96,
+        "anchorX": 48,
+        "anchorY": 84
+      }
+    ]
+  },
+  "death": {
+    "canvasWidth": 128,
+    "canvasHeight": 96,
+    "frameCount": 8,
+    "frames": [
+      {
+        "index": 0,
+        "file": "/assets/blaze_sprites/death/frame_0.png",
+        "width": 128,
+        "height": 96,
+        "anchorX": 64,
+        "anchorY": 84
+      },
+      {
+        "index": 1,
+        "file": "/assets/blaze_sprites/death/frame_1.png",
+        "width": 128,
+        "height": 96,
+        "anchorX": 64,
+        "anchorY": 84
+      },
+      {
+        "index": 2,
+        "file": "/assets/blaze_sprites/death/frame_2.png",
+        "width": 128,
+        "height": 96,
+        "anchorX": 64,
+        "anchorY": 84
+      },
+      {
+        "index": 3,
+        "file": "/assets/blaze_sprites/death/frame_3.png",
+        "width": 128,
+        "height": 96,
+        "anchorX": 64,
+        "anchorY": 84
+      },
+      {
+        "index": 4,
+        "file": "/assets/blaze_sprites/death/frame_4.png",
+        "width": 128,
+        "height": 96,
+        "anchorX": 64,
+        "anchorY": 84
+      },
+      {
+        "index": 5,
+        "file": "/assets/blaze_sprites/death/frame_5.png",
+        "width": 128,
+        "height": 96,
+        "anchorX": 64,
+        "anchorY": 84
+      },
+      {
+        "index": 6,
+        "file": "/assets/blaze_sprites/death/frame_6.png",
+        "width": 128,
+        "height": 96,
+        "anchorX": 64,
+        "anchorY": 84
+      },
+      {
+        "index": 7,
+        "file": "/assets/blaze_sprites/death/frame_7.png",
+        "width": 128,
+        "height": 96,
+        "anchorX": 64,
+        "anchorY": 84
+      }
+    ]
+  },
+  "skill": {
+    "canvasWidth": 336,
+    "canvasHeight": 160,
+    "frameCount": 9,
+    "frames": [
+      {
+        "index": 0,
+        "file": "/assets/blaze_sprites/skill/frame_0.png",
+        "width": 336,
+        "height": 160,
+        "anchorX": 144,
+        "anchorY": 144
+      },
+      {
+        "index": 1,
+        "file": "/assets/blaze_sprites/skill/frame_1.png",
+        "width": 336,
+        "height": 160,
+        "anchorX": 144,
+        "anchorY": 144
+      },
+      {
+        "index": 2,
+        "file": "/assets/blaze_sprites/skill/frame_2.png",
+        "width": 336,
+        "height": 160,
+        "anchorX": 144,
+        "anchorY": 144
+      },
+      {
+        "index": 3,
+        "file": "/assets/blaze_sprites/skill/frame_3.png",
+        "width": 336,
+        "height": 160,
+        "anchorX": 144,
+        "anchorY": 144
+      },
+      {
+        "index": 4,
+        "file": "/assets/blaze_sprites/skill/frame_4.png",
+        "width": 336,
+        "height": 160,
+        "anchorX": 144,
+        "anchorY": 144
+      },
+      {
+        "index": 5,
+        "file": "/assets/blaze_sprites/skill/frame_5.png",
+        "width": 336,
+        "height": 160,
+        "anchorX": 144,
+        "anchorY": 144
+      },
+      {
+        "index": 6,
+        "file": "/assets/blaze_sprites/skill/frame_6.png",
+        "width": 336,
+        "height": 160,
+        "anchorX": 144,
+        "anchorY": 144
+      },
+      {
+        "index": 7,
+        "file": "/assets/blaze_sprites/skill/frame_7.png",
+        "width": 336,
+        "height": 160,
+        "anchorX": 144,
+        "anchorY": 144
+      },
+      {
+        "index": 8,
+        "file": "/assets/blaze_sprites/skill/frame_8.png",
+        "width": 336,
+        "height": 160,
+        "anchorX": 144,
+        "anchorY": 144
+      }
+    ]
+  }
+}

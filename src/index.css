@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-cinzel: 'Cinzel', serif;
+    --font-pixel: 'Press+Start+2P', monospace;
+  }
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+.font-pixel {
+  font-family: 'Press Start 2P', monospace, monospace;
+}
+
+/* Custom crisp pixel styling */
+.pixel-border {
+  box-shadow: 
+    0 -2px 0 0 rgba(255,255,255,0.15),
+    0 2px 0 0 rgba(0,0,0,0.5),
+    -2px 0 0 0 rgba(255,255,255,0.15),
+    2px 0 0 0 rgba(0,0,0,0.5);
+}
+
+.pixel-glow-pink {
+  box-shadow: 0 0 15px rgba(244, 63, 94, 0.4), 0 0 30px rgba(236, 72, 153, 0.2);
+}
+
+.pixel-glow-amber {
+  box-shadow: 0 0 15px rgba(245, 158, 11, 0.4), 0 0 30px rgba(217, 119, 6, 0.2);
+}
